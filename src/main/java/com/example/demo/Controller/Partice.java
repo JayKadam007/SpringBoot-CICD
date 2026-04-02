@@ -12,7 +12,7 @@ public class Partice {
 
     @GetMapping("/hi")
     public String beDemo(){
-        return " hello Guys My Name Is Jay";
+        return " hello Guys My Name Is Jay Kadam";
     }
 
 //    git init
